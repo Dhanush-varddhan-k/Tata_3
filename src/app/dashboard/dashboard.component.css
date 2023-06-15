@@ -1,0 +1,28 @@
+.bg-img
+{
+    background-image: url('https://t4.ftcdn.net/jpg/02/58/46/45/360_F_258464541_GP8tzclZhURDrz1bvX41PGYR50Siayfg.jpg');
+    background-size: cover;
+    height: 150vh;
+ 
+}
+.login-logo
+{
+    height: 240px;
+    width: 380px;
+    position: relative;
+    left: 35%;
+    margin: 60px;
+    margin-bottom: 25px;
+}
+.carousel-section
+{
+    width: 800px;
+    height: 400px;
+    margin-left:  580px;
+    margin-top: 100px;
+}
+.para1
+{
+    margin: 60px;
+    margin-right: 100px;
+}
